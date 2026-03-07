@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [3803-count-residue-prefixes](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [3803-count-residue-prefixes](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3803-count-residue-prefixes/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
