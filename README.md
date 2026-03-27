@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3861-minimum-capacity-box](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
