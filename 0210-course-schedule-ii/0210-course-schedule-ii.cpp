@@ -7,7 +7,7 @@ public:
         for (auto it : adj[node]) {
             if (!vis[it]) {
                 if (dfs(it, vis, dfsvis, st, adj)) return true;
-            } else if (dfsvis[it]) return true;  // cycle detected
+            } else if (dfsvis[it]) return true;  
         }
         dfsvis[node] = 0;
         st.push(node);
@@ -17,7 +17,7 @@ public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         vector<int> adj[numCourses];
         for (auto it : prerequisites)
-            adj[it[1]].push_back(it[0]);  // ✅ correct direction
+            adj[it[1]].push_back(it[0]);  
 
         stack<int> st;
         vector<int> vis(numCourses, 0);
@@ -26,7 +26,7 @@ public:
         for (int i = 0; i < numCourses; i++) {
             if (!vis[i]) {
                 if (dfs(i, vis, dfsvis, st, adj))
-                    return {};  // ✅ cycle → no valid order
+                    return {};  
             }
         }
 
