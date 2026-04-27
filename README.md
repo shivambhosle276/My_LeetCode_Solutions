@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3842-toggle-light-bulbs](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3861-minimum-capacity-box/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
