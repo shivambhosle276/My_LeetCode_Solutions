@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
