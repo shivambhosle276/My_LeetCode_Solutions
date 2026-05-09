@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,5 +159,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
