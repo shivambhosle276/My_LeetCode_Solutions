@@ -7,8 +7,8 @@ public:
         if(grid[0][0]==1 || grid[n-1][m-1]==1)
             return -1;
         vector<vector<int>> dist(n,vector<int> (m,1e9));
-        dist[0][0]=1;
-        q.push({1,{0,0}});
+        dist[0][0]=0;
+        q.push({0,{0,0}});
         int dr[]={-1,0,1,0,1,1,-1,-1};
         int dc[]={0,1,0,-1,1,-1,-1,1};
         while(!q.empty())
@@ -19,7 +19,7 @@ public:
             int r=it.second.first;
             int c=it.second.second;
              if(r == n-1 && c == n-1)
-                return dis;
+                return dis+1;
             for(int i=0;i<8;i++)
             {
                 int newr=r+dr[i];
@@ -27,7 +27,6 @@ public:
                 if(newr>=0 && newr<n && newc>=0 && newc<m && grid[newr][newc]==0 && dis+1 < dist[newr][newc])
                 {
                     dist[newr][newc]=dis+1;
-                   
                     q.push({dis+1,{newr,newc}});
                 }
             }
