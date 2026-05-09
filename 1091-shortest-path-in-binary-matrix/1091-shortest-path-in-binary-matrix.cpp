@@ -5,7 +5,7 @@ public:
         int n=grid.size();
         int m= grid[0].size();
         if(grid[0][0]==1 || grid[n-1][m-1]==1)
-    return -1;
+            return -1;
         vector<vector<int>> dist(n,vector<int> (m,1e9));
         dist[0][0]=1;
         q.push({1,{0,0}});
@@ -27,7 +27,7 @@ public:
                 if(newr>=0 && newr<n && newc>=0 && newc<m && grid[newr][newc]==0 && dis+1 < dist[newr][newc])
                 {
                     dist[newr][newc]=dis+1;
-                    if(newr==n-1 && newc==m-1)return dis+1;
+                   
                     q.push({dis+1,{newr,newc}});
                 }
             }
