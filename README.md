@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Binary Tree
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -176,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
