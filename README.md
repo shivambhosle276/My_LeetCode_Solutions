@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3803-count-residue-prefixes](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3856-trim-trailing-vowels/) | Easy |
+| [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3922-minimum-flips-to-make-binary-string-coherent/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
