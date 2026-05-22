@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Graph Theory
@@ -192,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
