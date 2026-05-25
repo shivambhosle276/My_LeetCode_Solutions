@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
+| [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -59,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3803-count-residue-prefixes](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3803-count-residue-prefixes/) | Easy |
@@ -77,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -95,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -187,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
