@@ -1,108 +1,107 @@
+class DisjointSet {
+public:
+    vector<int> parent, size;
+
+    DisjointSet(int n) {
+        parent.resize(n);
+        size.resize(n, 1);
+
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
+    }
+
+    int findpar(int node) {
+        if (parent[node] == node)
+            return node;
+
+        return parent[node] = findpar(parent[node]);
+    }
+
+    void unionBySize(int u, int v) {
+        int pu = findpar(u);
+        int pv = findpar(v);
+
+        if (pu == pv) return;
+
+        if (size[pu] < size[pv]) {
+            parent[pu] = pv;
+            size[pv] += size[pu];
+        } else {
+            parent[pv] = pu;
+            size[pu] += size[pv];
+        }
+    }
+};
 
 class Solution {
+private:
+    bool isvalid(int r, int c, int n) {
+        return r >= 0 && r < n && c >= 0 && c < n;
+    }
+
 public:
-
-    int findParent(int node, vector<int> &parent)
-    {
-        if(node == parent[node]) return node;
-        return parent[node] = findParent(parent[node],parent);
-    }
-
-    void unionBySize(int p1, int p2, vector<int> &size, vector<int> &parent)
-    {
-        int s1 = size[p1];
-        int s2 = size[p2];
-
-        if(s1<s2)
-        {
-            parent[p1] = p2;
-            size[p2]+=size[p1];
-        }
-        else
-        {
-            parent[p2] = p1;
-            size[p1]+=size[p2];
-        }
-    }
-
     int largestIsland(vector<vector<int>>& grid) {
         int n = grid.size();
-        int total = n*n;
-        vector<int>parent(n*n);
-        vector<int>size(n*n);
 
-        vector<int>nx = {-1,1,0,0};
-        vector<int>ny = {0,0,-1,1};
+        DisjointSet ds(n * n);
 
-        for(int i=0;i<n*n;i++)
-        {
-            parent[i] = i;
-            size[i] = 1;
-        }
+        int dr[] = {-1, 0, 1, 0};
+        int dc[] = {0, -1, 0, 1};
 
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                if(grid[i][j])
-                {
-                    int index = i*n+j;
-                    for(int dir=0;dir<4;dir++)
-                    {
-                        int dx = i + nx[dir];
-                        int dy = j + ny[dir];
+        
+        for (int row = 0; row < n; row++) {
+            for (int col = 0; col < n; col++) {
+                if (grid[row][col] == 0) continue;
 
-                        if(dx>=0  &&  dx<n  &&  dy>=0  &&  dy<n  &&  grid[dx][dy])
-                        {
-                            int index2 = dx*n + dy;
-                            int p1 = findParent(index,parent);
-                            int p2 = findParent(index2,parent);
-                            if(p1!=p2) unionBySize(p1,p2,size,parent);
-                        }
+                for (int k = 0; k < 4; k++) {
+                    int nr = row + dr[k];
+                    int nc = col + dc[k];
+
+                    if (isvalid(nr, nc, n) && grid[nr][nc] == 1) {
+                        int node = row * n + col;
+                        int adjNode = nr * n + nc;
+
+                        ds.unionBySize(node, adjNode);
                     }
                 }
             }
         }
 
-        int ans = INT_MIN;
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                if(grid[i][j])
-                {
-                    int index = i*n+j;
-                    int root = findParent(index,parent);
-                    ans = max(ans,size[root]);
+        int mx = 0;
+
+        // Try converting each 0 to 1
+        for (int row = 0; row < n; row++) {
+            for (int col = 0; col < n; col++) {
+
+                if (grid[row][col] == 1) continue;
+
+                set<int> components;
+
+                for (int k = 0; k < 4; k++) {
+                    int nr = row + dr[k];
+                    int nc = col + dc[k];
+
+                    if (isvalid(nr, nc, n) && grid[nr][nc] == 1) {
+                        components.insert(ds.findpar(nr * n + nc));
+                    }
                 }
 
-                else
-                {
-                    int count = 1;
-                    unordered_set<int>uniqueParent;
-                    for(int dir=0;dir<4;dir++)
-                    {
-                        int dx = i + nx[dir];
-                        int dy = j + ny[dir];
+                int sizeTot = 0;
 
-                        if(dx>=0  &&  dx<n  &&  dy>=0  &&  dy<n  &&  grid[dx][dy])
-                        {
-                            int index = dx*n+dy;
-                            index = findParent(index,parent);
-                            uniqueParent.insert(index);
-                        }
-                    }
-
-                    for(auto &par:uniqueParent)
-                    {
-                        count+=size[par];
-                    }
-
-                    ans=max(ans,count);
+                for (auto parent : components) {
+                    sizeTot += ds.size[parent];
                 }
+
+                mx = max(mx, sizeTot + 1);
             }
         }
 
-        return ans;
+       
+        for (int cell = 0; cell < n * n; cell++) {
+            mx = max(mx, ds.size[ds.findpar(cell)]);
+        }
+
+        return mx;
     }
 };
