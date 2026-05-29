@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3932-count-k-th-roots-in-a-range](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3932-count-k-th-roots-in-a-range/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,4 +221,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0061-rotate-list/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3932-count-k-th-roots-in-a-range](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3932-count-k-th-roots-in-a-range/) | Medium |
 <!---LeetCode Topics End-->
