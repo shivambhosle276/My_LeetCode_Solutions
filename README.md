@@ -233,9 +233,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0292-nim-game/) | Easy |
 | [3932-count-k-th-roots-in-a-range](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3932-count-k-th-roots-in-a-range/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
