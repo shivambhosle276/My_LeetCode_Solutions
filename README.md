@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0319-bulb-switcher/) | Medium |
 | [0877-stone-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [3932-count-k-th-roots-in-a-range](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3932-count-k-th-roots-in-a-range/) | Medium |
 ## Biconnected Component
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0319-bulb-switcher/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
