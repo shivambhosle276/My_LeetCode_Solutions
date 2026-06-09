@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0877-stone-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Graph Theory
