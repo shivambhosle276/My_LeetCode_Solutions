@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3019-number-of-changing-keys/) | Easy |
@@ -269,4 +270,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0292-nim-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
