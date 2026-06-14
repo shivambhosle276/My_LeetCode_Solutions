@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
