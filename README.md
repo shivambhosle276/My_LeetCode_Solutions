@@ -290,4 +290,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3950-exactly-one-consecutive-set-bits-pair/) | Easy |
 <!---LeetCode Topics End-->
