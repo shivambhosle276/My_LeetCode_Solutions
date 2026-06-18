@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0046-permutations/) | Medium |
 | [0056-merge-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0057-insert-interval/) | Medium |
+| [0312-burst-balloons](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0312-burst-balloons](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
