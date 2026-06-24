@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0621-task-scheduler](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0046-permutations/) | Medium |
 | [0056-merge-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0057-insert-interval/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0312-burst-balloons](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0827-making-a-large-island/) | Hard |
