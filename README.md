@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0621-task-scheduler](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0621-task-scheduler/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0072-edit-distance](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0344-reverse-string](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
