@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1046-last-stone-weight](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1048-longest-string-chain](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1046-last-stone-weight](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
