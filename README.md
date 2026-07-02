@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3903-smallest-stable-index-i](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [3842-toggle-light-bulbs](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
