@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Simulation
@@ -170,11 +172,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -232,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3932-count-k-th-roots-in-a-range](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3932-count-k-th-roots-in-a-range/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -241,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
