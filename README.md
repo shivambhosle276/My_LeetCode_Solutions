@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0274-h-index](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0274-h-index/) | Medium |
 | [0312-burst-balloons](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0274-h-index](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0274-h-index/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0621-task-scheduler/) | Medium |
@@ -369,4 +371,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
