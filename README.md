@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0383-ransom-note](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0621-task-scheduler/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0344-reverse-string](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0621-task-scheduler](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
