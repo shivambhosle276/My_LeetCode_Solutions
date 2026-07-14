@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0228-summary-ranges](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0274-h-index](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0274-h-index/) | Medium |
 | [0312-burst-balloons](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
