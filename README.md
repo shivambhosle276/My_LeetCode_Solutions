@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0619-biggest-single-number](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
