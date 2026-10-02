@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3847-find-the-score-difference-in-a-game/) | Medium |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [2104-sum-of-subarray-ranges](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
