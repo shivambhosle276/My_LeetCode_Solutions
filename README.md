@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0046-permutations](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0046-permutations/) | Medium |
+| [0053-maximum-subarray](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0072-edit-distance](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
