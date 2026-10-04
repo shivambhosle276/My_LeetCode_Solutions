@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0229-majority-element-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0134-gas-station/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0228-summary-ranges](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0228-summary-ranges/) | Easy |
+| [0229-majority-element-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0274-h-index/) | Medium |
 | [0312-burst-balloons](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0322-coin-change/) | Medium |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0229-majority-element-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0274-h-index/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0621-task-scheduler](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -438,4 +442,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1757-recyclable-and-low-fat-products](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
