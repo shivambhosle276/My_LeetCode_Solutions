@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3803-count-residue-prefixes](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3842-toggle-light-bulbs/) | Easy |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3904-smallest-stable-index-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/4048-count-values-with-equally-spaced-occurrences-i/) | Easy |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
