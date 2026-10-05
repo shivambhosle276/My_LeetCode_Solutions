@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3904-smallest-stable-index-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0877-stone-game](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [3932-count-k-th-roots-in-a-range](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/3932-count-k-th-roots-in-a-range/) | Medium |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Biconnected Component
 | Problem Name | Difficulty |
 | ------- | ------- |
