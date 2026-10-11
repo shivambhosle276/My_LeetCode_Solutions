@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
@@ -346,12 +347,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0061-rotate-list/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0061-rotate-list/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [1048-longest-string-chain](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -463,4 +466,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
