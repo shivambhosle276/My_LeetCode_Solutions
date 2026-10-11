@@ -344,10 +344,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0061-rotate-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
