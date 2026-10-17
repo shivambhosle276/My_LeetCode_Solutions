@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0721-accounts-merge/) | Medium |
 | [1048-longest-string-chain](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
