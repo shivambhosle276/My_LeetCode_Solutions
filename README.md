@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0042-trapping-rain-water](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0072-edit-distance](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -386,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
@@ -410,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/shivambhosle276/My_LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
